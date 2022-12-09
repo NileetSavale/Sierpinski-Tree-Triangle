@@ -13,8 +13,7 @@ I just tried using the python turtle to make the sierpinski triangle where you m
 
 here the . inside [] is the random point and * these are the veritices of the triangle.
 thus we then choose any vertice and just start dotting the plain to get something more like this:
-
-       * 
+       *
       * * 
      *   * 
     * * * * 
